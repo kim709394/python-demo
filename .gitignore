@@ -3,5 +3,6 @@
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
-.idea/**
-__pycache__/**
+./.idea/**
+./__pycache__/**
+./**/__pycache__/**
